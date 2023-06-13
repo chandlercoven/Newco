@@ -9,9 +9,9 @@
         
         <div class="grid col h-fit text-custom-blue">
             <div class="grid gap-2">
-                <h1 class="text-4xl md:text-5xl font-bold">The Lead Exchange</h1>
+                <h1 class="text-4xl md:text-5xl font-bold">The IE Pipeline</h1>
                 <p class="text-xl md:text-2xl font-medium">We are a Florida based agency that specializes in local agent partnerships</p>
-                <p class="mt-4">At The Lead Exchange, we are a Florida-based agency that specializes in helping insurance agents expand their business with access to every property and casualty insurance market in the state. Our comprehensive lead referral program provides a valuable solution for agents who may not be able to place business with the carriers they have access to.<br><br>
+                <p class="mt-4">At The Ie Pipeline, we are a Florida-based agency that specializes in helping insurance agents expand their business with access to every property and casualty insurance market in the state. Our comprehensive lead referral program provides a valuable solution for agents who may not be able to place business with the carriers they have access to.<br><br>
 
                     Through our program, agents can submit leads and earn commissions year after year, just like they would through an MGA. If an agent is unable to place business with their carriers, they can refer the submission to us and allow us to bind the policy with our broader market access. This ensures that the business and commissions stay with the agent, rather than going to their competitors.<br><br>
                     
@@ -21,7 +21,7 @@
                     
                     Over the years, we have built partnerships with every Florida homeowners insurance carrier, allowing us to guarantee the lowest rates with the correct insurance coverage for your needs. Our commitment to excellence and expertise in the insurance industry has made us a trusted partner for insurance agents throughout the state.<br><br>
                     
-                    By partnering with The Lead Exchange, you can tap into new revenue streams and stay ahead of market trends in the ever-changing insurance industry. Whether you're a new agent looking to establish yourself in the industry or an experienced agent looking to expand your business, The Lead Exchange is here to help you succeed..</p>
+                    By partnering with The IE Pipeline, you can tap into new revenue streams and stay ahead of market trends in the ever-changing insurance industry. Whether you're a new agent looking to establish yourself in the industry or an experienced agent looking to expand your business, The IE Pipeline is here to help you succeed..</p>
             </div>
         </div>
 

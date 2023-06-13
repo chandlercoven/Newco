@@ -23,8 +23,8 @@
 
                     <div class="grid col my-auto">
                         <div class="flow-root">
-                            <img src="../assets/logo.png" alt="The Lead Exchange Logo" class="ml-[-50px]" />
-                            <!-- <p class="my-auto text-custom-blue font-bold text-md ml-[-20px]">The Lead Exchange</p> -->
+                            <!-- <img src="../assets/logo.png" alt="The Lead Exchange Logo" class="ml-[-50px]" /> -->
+                            <a href="/" class="my-auto text-custom-blue font-bold text-[40px] ml-[-20px]">The IE Pipeline</a>
                         </div>
                     </div>
                 </div>
@@ -39,8 +39,10 @@
             <div class="flex w-[90%] h-full mx-auto">
                 <div class="grid grid-cols-6 flow-root w-full h-fit my-auto">
                     <div class="grid col-span-2 float-left w-fit">
-                        <RouterLink to="/" class="my-auto h-fit"><img src="../assets/logo.png" alt="The Lead Exchange Logo" class="h-[25px]" /></RouterLink>
+                        <!-- <RouterLink to="/" class="my-auto h-fit"><img src="../assets/logo.png" alt="The Lead Exchange Logo" class="h-[25px]" /></RouterLink> -->
+                        <a href="/" class="my-auto text-custom-blue font-bold text-[40px] ml-[-20px]">The IE Pipeline</a>
                     </div>
+                    
         
                     <div class="grid col-span-4 h-fit my-auto">
                         <div class="flow-root">

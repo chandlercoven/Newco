@@ -4,9 +4,9 @@
             <img src="../../assets/offer.png" alt="Offerings">
             
             <div class="grid gap-6 text-custom-blue h-fit">
-                <h1 class="text-xl font-bold">The Lead Exchange - Your Partner for Successful Insurance Business</h1>
+                <h1 class="text-xl font-bold">The IE Pipeline - Your Partner for Successful Insurance Business</h1>
 
-                <p class="w-[90%]">The Lead Exchange is a trusted partner for insurance agents in Florida, providing a comprehensive lead referral program that helps agents expand their
+                <p class="w-[90%]">The IE Pipeline is a trusted partner for insurance agents in Florida, providing a comprehensive lead referral program that helps agents expand their
                      business and increase revenue. Our state-of-the-art technology and extensive network of insurance markets enable us to deliver seamless, rapid response solutions to meet the ever-evolving needs of the market.</p>
             
                 <div class="grid gap-2">
