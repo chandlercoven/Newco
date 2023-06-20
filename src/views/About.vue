@@ -11,7 +11,7 @@
             <div class="grid gap-2">
                 <h1 class="text-4xl md:text-5xl font-bold">The IE Pipeline</h1>
                 <p class="text-xl md:text-2xl font-medium">We are a Florida based agency that specializes in local agent partnerships</p>
-                <p class="mt-4">At The Ie Pipeline, we are a Florida-based agency that specializes in helping insurance agents expand their business with access to every property and casualty insurance market in the state. Our comprehensive lead referral program provides a valuable solution for agents who may not be able to place business with the carriers they have access to.<br><br>
+                <p class="mt-4">At The IE Pipeline, we are a Florida-based agency that specializes in helping insurance agents expand their business with access to every property and casualty insurance market in the state. Our comprehensive lead referral program provides a valuable solution for agents who may not be able to place business with the carriers they have access to.<br><br>
 
                     Through our program, agents can submit leads and earn commissions year after year, just like they would through an MGA. If an agent is unable to place business with their carriers, they can refer the submission to us and allow us to bind the policy with our broader market access. This ensures that the business and commissions stay with the agent, rather than going to their competitors.<br><br>
                     
@@ -30,11 +30,11 @@
         </div>
     </div>
 
-    <div class="w-full grid justify-items-center text-center text-custom-blue bg-custom-blue bg-opacity-5 py-24 px-4">
+    <div class="w-full grid justify-items-center text-center text-blacke bg-custom-blue bg-opacity-5 py-24 px-4">
         <img src="../assets/dots.png" alt="Dots" class="z-0 right-2 absolute mt-[-80px]">
         <h2 class="text-4xl font-bold xl:w-[45%]">Are you ready to transform your book of business and <span class="text-[#A6202F]">Partner</span> with us?</h2>
 
-        <RouterLink to="/get-appointed" class="mt-12 text-lg text-white py-2 px-6 rounded-xl bg-custom-blue">Get Started</RouterLink>        
+        <RouterLink to="/get-appointed" class="mt-12 text-lg text-white py-2 px-6 rounded-xl bg-red-700">Get Started</RouterLink>        
 
         <img src="../assets/dots.png" alt="Dots" class="z-0 left-2 absolute mt-[280px] md:mt-[200px] lg:mt-[200px]">
     </div>

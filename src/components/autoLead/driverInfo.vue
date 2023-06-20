@@ -41,7 +41,7 @@
 
         <div class="grid lg:grid-cols-2 gap-6">
             <button @click="back" type="button" class="bg-custom-gray py-2 uppercase text-white text-sm font-medium rounded-md">back</button>
-            <input type="submit" value="next" class="bg-custom-blue py-2 uppercase text-white text-sm font-medium rounded-md hover:cursor-pointer">
+            <input type="submit" value="next" class="bg-red-700 py-2 uppercase text-white text-sm font-medium rounded-md hover:cursor-pointer">
         </div>
     </form>
 </template>

@@ -3,7 +3,7 @@
         <div class="w-[90%] mx-auto grid md:grid-cols-2 gap-12">
             <img src="../../assets/offer.png" alt="Offerings">
             
-            <div class="grid gap-6 text-custom-blue h-fit">
+            <div class="grid gap-6 text-black h-fit">
                 <h1 class="text-xl font-bold">The IE Pipeline - Your Partner for Successful Insurance Business</h1>
 
                 <p class="w-[90%]">The IE Pipeline is a trusted partner for insurance agents in Florida, providing a comprehensive lead referral program that helps agents expand their
@@ -17,7 +17,7 @@
                     <p class="flex font-medium gap-4"><CheckCircleIcon class="h-6" />Trust in our expertise and experience to help you stay ahead of market trends and succeed in the ever-changing insurance industry.</p>
                 </div>
 
-                <RouterLink to="/get-appointed" class="w-fit text-custom-blue font-medium border-2 border-custom-blue py-4 px-6 rounded-3xl hover:text-white hover:bg-custom-blue">Get Started</RouterLink>
+                <RouterLink to="/get-appointed" class="w-fit text-black font-medium border-2 border-black py-4 px-6 rounded-3xl hover:text-white hover:bg-black">Get Started</RouterLink>
             </div>
         </div>
     </div>

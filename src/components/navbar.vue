@@ -23,8 +23,8 @@
 
                     <div class="grid col my-auto">
                         <div class="flow-root">
-                            <!-- <img src="../assets/logo.png" alt="The Lead Exchange Logo" class="ml-[-50px]" /> -->
-                            <a href="/" class="my-auto text-custom-blue font-bold text-[40px] ml-[-20px]">The IE Pipeline</a>
+                            <img src="../assets/IEpipelineLogo.png" alt="The IE Pipeline Logo" class="ml-[-50px]" /> 
+                           
                         </div>
                     </div>
                 </div>
@@ -39,8 +39,8 @@
             <div class="flex w-[90%] h-full mx-auto">
                 <div class="grid grid-cols-6 flow-root w-full h-fit my-auto">
                     <div class="grid col-span-2 float-left w-fit">
-                        <!-- <RouterLink to="/" class="my-auto h-fit"><img src="../assets/logo.png" alt="The Lead Exchange Logo" class="h-[25px]" /></RouterLink> -->
-                        <a href="/" class="my-auto text-custom-blue font-bold text-[40px] ml-[-20px]">The IE Pipeline</a>
+                       <RouterLink to="/" class="my-auto h-fit"><img src="../assets/IEpipelineLogo.png" alt="The IE Pipeline Logo" class="h-[100px]" /></RouterLink> 
+                     
                     </div>
                     
         
@@ -50,7 +50,7 @@
                                 <RouterLink to="/" :class="active == 'home' ? 'border-custom-blue' : 'border-transparent'" class="border-b-2 hover:border-custom-blue">Home</RouterLink>
                                 <RouterLink to="/about" :class="active == 'about' ? 'border-custom-blue' : 'border-transparent'" class="border-b-2 hover:border-custom-blue">About</RouterLink>
                                 <RouterLink to="/lead-submission" :class="active == 'lead' ? 'border-custom-blue' : 'border-transparent'" class="border-b-2 hover:border-custom-blue">Lead Submission</RouterLink>
-                                <RouterLink to="/get-appointed" :class="active == 'appointed' ? 'bg-custom-blue text-white' : ''" class="py-2 px-6 border-2 rounded-xl border-custom-blue hover:bg-custom-blue hover:text-white">Get Started</RouterLink>
+                                <RouterLink to="/get-appointed" :class="active == 'appointed' ? 'bg-red-700 text-white' : ''" class="py-2 px-6 bg-red-700 text-white rounded-xl ">Get Started</RouterLink>
                             </div>
                         </div>
                     </div>

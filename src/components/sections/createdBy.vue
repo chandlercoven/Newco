@@ -1,12 +1,12 @@
 <template>
-    <div class="w-fit grid gap-8 justify-items-center mx-auto py-24 px-4 text-custom-blue">
+    <div class="w-fit grid gap-8 justify-items-center mx-auto py-24 px-4 text-black">
         <h2 class="text-center font-bold text-4xl">Created by Insurance Agents<br class="hidden md:block"> for Insurance Agents</h2>
         <p class="text-center text-lg">By bridging access to every A-rated homeowner's insurance company in Florida, we <br class="hidden md:block"> assist our partner agents to capture and retain more business.</p>
     
         <div class="w-fit grid lg:grid-cols-2 gap-12 mt-4">
             <div class="grid gap-4 col w-[330px] md:w-[387px] rounded-lg px-10 py-8 shadow-newdrop">
                 <div class="h-fit grid gap-4">
-                    <div class="py-2 px-4 rounded-lg bg-custom-blue bg-opacity-90 mx-auto w-fit">
+                    <div class="py-2 px-4 rounded-lg bg-black bg-opacity-90 mx-auto w-fit">
                         <UserIcon class="h-12 text-white" />
                     </div>
 
@@ -19,7 +19,7 @@
             </div>
 
             <div class="grid gap-4 col w-[330px] md:w-[387px] rounded-lg px-10 py-8 shadow-newdrop">
-                <div class="py-2 px-4 rounded-lg bg-custom-blue bg-opacity-90 mx-auto w-fit">
+                <div class="py-2 px-4 rounded-lg bg-black bg-opacity-90 mx-auto w-fit">
                     <BuildingOffice2Icon class="h-12 text-white" />
                 </div>
 

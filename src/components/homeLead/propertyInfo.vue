@@ -14,8 +14,8 @@
             <div class="grid gap-2 h-fit">
                 <label class="text-md text-custom-blue font-medium">New Purchase <span class="text-red-400">*</span></label>
                 <div class="w-full grid grid-cols-2 inner-border-[1px] border-custom-gray border-opacity-20 text-center uppercase rounded-md">
-                    <p @click="newPurchase($event)" :class="form.new_purchase ? 'bg-custom-blue text-white' : ''" id="newYes" class="p-2 rounded-bl-md rounded-tl-md border-custom-blue border-r-2 hover:cursor-pointer">yes</p>
-                    <p @click="newPurchase($event)" :class="!form.new_purchase ? 'bg-custom-blue text-white' : ''" id="newNo" class="p-2 rounded-br-md rounded-tr-md hover:cursor-pointer">no</p>
+                    <p @click="newPurchase($event)" :class="form.new_purchase ? 'bg-black text-white' : ''" id="newYes" class="p-2 rounded-bl-md rounded-tl-md border-custom-blue border-r-2 hover:cursor-pointer">yes</p>
+                    <p @click="newPurchase($event)" :class="!form.new_purchase ? 'bg-black text-white' : ''" id="newNo" class="p-2 rounded-br-md rounded-tr-md hover:cursor-pointer">no</p>
                 </div>
             </div>
         </div>
@@ -24,8 +24,8 @@
             <div class="grid gap-2 h-fit">
                 <label class="text-md text-custom-blue font-medium">Insured <span class="text-red-400">*</span></label>
                 <div class="w-full grid grid-cols-2 inner-border-[1px] border-custom-gray border-opacity-20 text-center uppercase rounded-md">
-                    <p @click="insured($event)" :class="form.insured ? 'bg-custom-blue text-white' : ''" id="insYes" class="p-2 rounded-bl-md rounded-tl-md border-custom-blue border-r-2 hover:cursor-pointer">yes</p>
-                    <p @click="insured($event)" :class="!form.insured ? 'bg-custom-blue text-white' : ''" id="insNo" class="p-2 rounded-br-md rounded-tr-md hover:cursor-pointer">no</p>
+                    <p @click="insured($event)" :class="form.insured ? 'bg-black text-white' : ''" id="insYes" class="p-2 rounded-bl-md rounded-tl-md border-custom-blue border-r-2 hover:cursor-pointer">yes</p>
+                    <p @click="insured($event)" :class="!form.insured ? 'bg-black text-white' : ''" id="insNo" class="p-2 rounded-br-md rounded-tr-md hover:cursor-pointer">no</p>
                 </div>
             </div>
 
@@ -55,7 +55,7 @@
 
         <div class="grid lg:grid-cols-2 gap-6">
             <button @click="back" type="button" class="bg-custom-gray py-2 uppercase text-white text-sm font-medium rounded-md">back</button>
-            <input type="submit" value="next" class="bg-custom-blue py-2 uppercase text-white text-sm font-medium rounded-md hover:cursor-pointer">
+            <input type="submit" value="next" class="bg-red-700 py-2 uppercase text-white text-sm font-medium rounded-md hover:cursor-pointer">
         </div>
     </form>
 </template>

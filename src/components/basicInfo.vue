@@ -20,7 +20,7 @@
             <textInput @inputUpdate="inputChange" :inputValue="form.client_phone" :id="'client_phone'" :label="'Client Phone'" :placeholderText="'(555) 555-5555'" :mask=true :maskText="'(###) ###-####'" />
         </div>
 
-        <input type="submit" value="next" class="bg-custom-blue py-2 uppercase text-white text-sm font-medium rounded-md hover:cursor-pointer">
+        <input type="submit" value="next" class="bg-red-700 py-2 uppercase text-white text-sm font-medium rounded-md hover:cursor-pointer">
     </form>
 </template>
 

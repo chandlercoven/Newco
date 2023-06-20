@@ -5,7 +5,7 @@
         <h1 class="text-3xl text-center">Auto Lead</h1>
 
         <div class="w-[90%] md:w-[70%] lg:w-[50%] mb-12 grid grid-cols-3 text-center font-medium text-[10px] md:text-[12px] border-[1px] border-custom-gray border-opacity-20 rounded-md">
-            <div v-for="(item, index) in steps" :key="index" :class="step === index ? 'bg-custom-blue text-white' : ''" class="py-2 rounded-md">
+            <div v-for="(item, index) in steps" :key="index" :class="step === index ? 'bg-black text-white' : ''" class="py-2 rounded-md">
                 <p class="">{{ item }}</p>
             </div>
         </div>

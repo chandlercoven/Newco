@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-custom-blue text-custom-blue py-10 px-6 md:px-16 lg:px-24">
+    <div class="bg-black text-custom-blue py-10 px-6 md:px-16 lg:px-24">
       <h2 class="text-3xl md:text-6xl font-bold text-center text-white mb-10 md:mb-20">How It Works</h2>
       <div class="flex flex-col md:flex-row justify-between">
         <div class="flex-1 text-center md:text-left mb-8 md:mb-0">

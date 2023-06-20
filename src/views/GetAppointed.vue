@@ -1,7 +1,7 @@
 <template>
     <NavBar :active="'appointed'" />
 
-    <div v-if="!submitted" class="w-full grid gap-12 justify-items-center py-24 text-custom-blue px-4">
+    <div v-if="!submitted" class="w-full grid gap-12 justify-items-center py-24 text-black px-4">
         <h2 class="text-3xl font-bold text-center">Request Appointment</h2>
 
         <form @submit.prevent="submit" class="w-[80%] lg:w-[50%] grid gap-6 mb-6">
@@ -17,7 +17,7 @@
 
             <textarea v-model="form.comment" name="comment" id="comment" cols="30" rows="3" class="w-full p-2 rounded-md border-none bg-input-bg focus:ring-0"></textarea>
         
-            <input type="submit" class=" w-full py-2 px-6 font-bold text-xl text-white bg-custom-blue rounded-lg mx-auto hover:cursor-pointer">
+            <input type="submit" class=" w-full py-2 px-6 font-bold text-xl text-white bg-red-700 rounded-lg mx-auto hover:cursor-pointer">
         </form>
     </div>
 
